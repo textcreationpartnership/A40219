@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Old Simon the Sorcerer who hath bewitched the whole city of christendom and to all the cities he hath given out that himself is some great one to whom they have all given heed from the least to the greatest, saying, This man is the great power of God, who deceived the city by his sorcery and witchcrafts, who hath been baptized also, certain queries to be answered / [by] G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40219</idno>
+            <idno type="STC">Wing F1870</idno>
+            <idno type="STC">ESTC R226386</idno>
+            <idno type="EEBO-CITATION">23249622</idno>
+            <idno type="OCLC">ocm 23249622</idno>
+            <idno type="VID">109516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1700:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Old Simon the Sorcerer who hath bewitched the whole city of christendom and to all the cities he hath given out that himself is some great one to whom they have all given heed from the least to the greatest, saying, This man is the great power of God, who deceived the city by his sorcery and witchcrafts, who hath been baptized also, certain queries to be answered / [by] G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109516:1" rendition="simple:additions"/>
+            <p>OLD SIMON THE SORCERER Who hath bewitched the whole City of Chriſtendom, and to all the Cities he hath given out, That himſelf is ſome great one; to whom they have all given heed from the leaſt to the greateſt, ſaying, <hi>This Man is the great Power of God;</hi> who deceived the City by his Sorcery and Witchcrafts, who hath been baptized.</p>
+            <p>Alſo, Certain QVERIES TO BE ANSWERED.</p>
+            <p>G. F.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:109516:2"/>
+            <head>Old <hi>SIMON</hi> the Sorcerer, &amp;c.</head>
+            <div type="part">
+               <p>THere was a certain man called <hi>Simon,</hi> who before-time in the City of <hi>Samaria</hi> uſed Sorcery, and bewitched the people of <hi>Samaria,</hi> giving out that himſelf was ſome great one, to whom they all of <hi>Samaria</hi> gave heed, from the leaſt to the greateſt, ſaying, <hi>This man is the great Po<g ref="char:EOLhyphen"/>wer of God;</hi> to whom they had regard, becauſe for a long time he had bewitched them with his Sorceries: And after this, <hi>Simon</hi> the Sorcerer himſelf believed at the preaching of <hi>Philip,</hi> and was baptized; &amp; when he ſaw how the Holy Ghoſt fell upon the people by the Apoſtles laying of their hands on them, &amp; the Miracles they did <hi>Simon</hi> would have given the Apoſtles money, ſaying, <hi>Give me this power, that on whomſoever I lay hands, may receive the Holy Ghoſt.</hi> But <hi>Peter</hi> ſaid unto him, <hi>Thy money periſh with thee; becauſe thou haſt thought the gift of God is to be bought with money, thou haſt neither part nor lot in this matter, for thy heart is not right in the ſight of God; repent therefore of this thy wickedneſs, and pray if perhaps the thought of thy heart may be forgiven thee; for I perceive that thou art in the gall of bitterneſs, and the bond of iniquity.</hi> Then anſwered <hi>Simon</hi> and ſaid, <hi>Pray ye for me, that none of theſe things ye have ſpoken, come upon me.</hi> Mark, his thought to have bought the gift of God for money, got into him after he was baptized, but all the other <hi>Simons</hi> who have been ſince <hi>Simon Magus,</hi> have gone beyond him, who thought to have bought the gift of God for money, for they have bought and ſold that which they imagined to be the gift of God, and ſo deceived themſelves and o<g ref="char:EOLhyphen"/>thers; for the gift of God cannot be bought and ſold for money.</p>
+               <p>Firſt, Here you may ſee, that this <hi>Simon Magus</hi> gave out himſelf to be ſome great one. Secondly, That all the people from the leaſt to the greateſt (whom he had deceived by his Witchcraft and Sorcery for a long time) ſaid he was the great Power of God. Now what, have all people from the leaſt to the greateſt ſince the Apoſtles days, cryed up that <hi>Si<g ref="char:EOLhyphen"/>mon's</hi> Nature which was out of the Power of God, as the people of <hi>Sa<g ref="char:EOLhyphen"/>maria</hi> cryed up <hi>Simon</hi> to be the great Power of God; for <hi>Simon Magus</hi> when he ſaw that through the laying on of the Apoſtles hands the Ho<g ref="char:EOLhyphen"/>ly Ghoſt was given, he offered them money, <hi>&amp;c.</hi> But <hi>Simon</hi> could not purchaſe this gift with money, by which the Apoſtles preached, did mi<g ref="char:EOLhyphen"/>racles,
+<pb n="3" facs="tcp:109516:2"/>and laid hands upon the people? And what, have all theſe <hi>Simons</hi> attained it (which have been ſince the days of the Apoſtles and <hi>Simon Magus</hi>) who have bought and ſold that which people have cryed up to be the great Power of God? Nay, if <hi>Simon Magus</hi> his money was to periſh with him, who did but think to have bought the gift of God, that he might have miniſtred and laid on hands, (mark) thought to have done it, but did not do it; then what will become of all the <hi>Simons,</hi> who ſince the Apoſtles days have bought and ſold that which they dreamed and imagined was the gift of God which they have miniſtred, and made people cry, the great Power of God; will not they and their money periſh (all of them) according to the Apoſtles doctrine, who are in their vain thoughts, thinking the gift of God may be bought for money. Therefore to conclude, this is not the gift of God which all the <hi>Simons</hi> have bought and ſold ſince the Apoſtles dayes.</p>
+               <p>And <hi>Simon Magus</hi> becauſe he thought the gift of God could be bought or purchaſed for money, had neither part nor lot in this matter of the Miniſtry of the Holy Ghoſt, laying on of hands, nor of the Miniſtry of God or Chriſt: Then have all the <hi>Simons</hi> ſince the Apoſtles days (that have bought and ſold that which they thought was the gift of God) nei<g ref="char:EOLhyphen"/>ther part nor lot in this matter of the gift of God, which by the Holy Ghoſt is to miniſter and lay on hands, by which the Holy Ghoſt is recei<g ref="char:EOLhyphen"/>ved; for <hi>Simon Magus</hi> his heart was not right in the ſight of God, who thought to have purchaſed the gift of God for money. Now whether are all theſe <hi>Simons</hi> hearts right or unright in the ſight of God, who have not onely thought, but have purchaſed that which they imagined was the gift of God.</p>
+               <p>The true Apoſtle ſaid to <hi>Simon Magus, I perceive that thou art in the gall of bitterneſs, and in the bond of iniquity;</hi> [Mark] <hi>Simon Magus</hi> was in the gall of bitterneſs, and bond of iniquity, who did but think to have bought the gift of God for money: Then where are all theſe <hi>Simons</hi> which are got up ſince the Apoſtles days, who (as is ſaid before) have bought and ſold that which they imagined to be the gift of God? Hath not their gall and bitterneſs appeared to all true Miniſters of the gift of God, and them that fear God, worſe then old <hi>Simon</hi> did in the Apoſtles days.</p>
+               <p>
+                  <hi>Simon Magus</hi> was alſo in the bond of iniquity, who thought the gift of God was to be bought and ſold for money; and where are all they, but in the bond of iniquity, chained, compaſſed and bound about in it, who have told people that was the gift of God which they bought and ſold for money? And are not the ſons worſe then the father, who hath not
+<pb n="4" facs="tcp:109516:3"/>only thought the gift of God is to be bought and ſold for money, but have perſecuted thoſe who will not buy that which they have bought, and call the gift of God; and ſo are not the young <hi>Simons</hi> worſe than the old?</p>
+               <p>Old <hi>Simon</hi> was to repent of his wickedneſs, &amp; pray God, if perhaps the thought of his heart might be forgiven him; and what was his thought and his wickedneſs, but to have bought the gift of God for money, which he was to repent of, and then to pray? But are not all theſe <hi>Simons</hi> ſince the Apoſtles days, (who have bought and ſold that which they have told people is the gift of God, and coſt them money) worſe then old <hi>Simon</hi> in the wickedneſs, and have not repented, and ſo not out of the wicked<g ref="char:EOLhyphen"/>neſs, nor the thoughts of their hearts changed; and how then can the young <hi>Simons</hi> pray? for old <hi>Simon</hi> was firſt to repent before he prayed, and had forgiveneſs; and therefore the young <hi>Simons</hi> muſt do the ſame, which few of them have done.</p>
+               <p>Old <hi>Simon</hi> the Sorcerer anſwered the Apoſtles, <hi>Pray ye for me, that none of theſe things ye have ſpoken, come upon me:</hi> And what was his tranſgreſ<g ref="char:EOLhyphen"/>ſion, but that he thought to have bought the gift of God for money? But all theſe <hi>Simons</hi> that have bought and ſold that which they thought was the gift of God, are ſhort of this old <hi>Simon,</hi> for he was afraid of pe<g ref="char:EOLhyphen"/>riſhing with his money.</p>
+               <p>Firſt, They that think the gift of God can be bought and ſold for money, are as <hi>Simon Magus,</hi> or rather worſe, in the gall of bitterneſſe, and bond of iniquity, and it doth manifeſt it ſelf; and this bitter gall people cannot abide.</p>
+               <p>Secondly, Their money and they are to periſh.</p>
+               <p>Thirdly, They have neither part nor lot in the Miniſtry of the gift of the Holy Ghoſt.</p>
+               <p>Fourthly, Their hearts are not right in the ſight of God.</p>
+               <p>Fifthly, Their thoughts are bad and wicked, and to be repented of, and to be prayed to God for the forgiveneſs of, which few are come to in our days, and to do as <hi>Simon Magus</hi> did.</p>
+               <p>Sixthly, The ſpirit of <hi>Simon Magus</hi> is the ſame that ever it was, or rather worſe; and Chriſt is the ſame as ever he was, and ſo are his Mini<g ref="char:EOLhyphen"/>ſters; and his gift is not to be bought and ſold for money, but is free; and thoſe who have freely received it, freely declare it, without money, and judge thoſe who think the gift of God is to be bought and ſold for mo<g ref="char:EOLhyphen"/>ney.</p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:109516:3"/>
+               <head>Certain Queries to be anſwered.</head>
+               <list>
+                  <item>1. FRiends, <hi>I</hi> would be ſatisfied in a Scripture-way, Whether or no <hi>John</hi> baptized Chriſt in a Font? And whether or no ſigned him with the fign of a Croſs, and baptized him? And whether or no Chriſt had a Godfather or Godmother when <hi>J<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hn</hi> baptized him; and if ſo, who were they? and where ſtood the Font he baptized him in?</item>
+                  <item>2. Thoſe many thouſands <hi>Pe<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er</hi> converted and baptized, whether he baptized every one of them in a F<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt, and ſigned them with the ſign of the Croſs? and had every one of them Go<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>hers and Godmothers, yea or nay?</item>
+                  <item>3. And whether or no Chriſt or the Apoſtles <hi>Timothy</hi> or <hi>Titus,</hi> being Biſhops, did ſet up a ſpiritual Court to ſummon in all that would not hear them (or give them maintenance) by Appa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ators? And where ſtood their Court?</item>
+                  <item>4. Whether or no the Chriſtians had a Law among themſelves to force one another to give their Teachers maintenance? Or whether or no the Chriſtians brought one another to the Heathen or <hi>Jews</hi> Law to give them maintenance?</item>
+                  <item>5. And whether any that went to Law before the Heathen, was not a manifeſtation they were unwiſe men?</item>
+                  <item>6. Whether or no <hi>Aarons</hi> white breeches, and white robes, typed forth the Surplice, or the fine Linnen, which is the righteouſneſſe of Saints? And you that have got on the white Robes, who pleads it from <hi>Aaron,</hi> where are your Bells, your golden Bell and Pomeg<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anates, as <hi>Aaron</hi> had in his garments, by which he was to be heard when he went into the ho<g ref="char:EOLhyphen"/>ly place, and came out; and your <hi>Urim</hi> and <hi>Thummim,</hi> which is light and perfections? Now when you go into your place, we do not hear the Bells at your coming out, or your coming in: Where do we ſee you in your Ephod made of gold, blew ſilk ſcarlet, fine trimmed Linnen, accor<g ref="char:EOLhyphen"/>ding to <hi>Exodus</hi> 20? And if it be, that you do ſummon in all to give you maintenance whether they will hear you or no?</item>
+                  <item>7. Whether or no you would be ſo ſerved your ſelves? Whether or no this is as you would be done by? if not, do you not tranſgreſſe the Law of God, which is, to have all men to do unto others as they would have others do unto them; for would you be contented the <hi>Turks,</hi> or the <hi>Papiſts,</hi> or the <hi>Hea hen</hi> ſhould ſummon in all you to hear them, their <hi>Alcaron,</hi> their <hi>Maſs,</hi> their Worſhip before an image, and bow before the <hi>Alcaron,</hi> and bow to a ſtock or a ſtone the Heathen ſet up, or <hi>Dagon,</hi> or
+<pb n="6" facs="tcp:109516:4"/>in the Houſe of <hi>R<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mmon,</hi> at the ſound of the Pipe and Harp, &amp; fall down before <hi>Nebuchadnezzar</hi> his Image, and give money to the maintenance of all his Magicians; and the Jeſuits, Prieſts, and Turks and Heathens Prieſts? Would you think this is well and right? Or could you conform? Would you not cry out for Liberty of Conſcience? And if ſo, do you then do to another, as you would have another do unto you?</item>
+                  <item>8. And whether or no Chriſt and the Apoſtles did whip any into the outward Temple? We read he whipt them out of the Temple, but ne<g ref="char:EOLhyphen"/>ver whipt them into the Temple.</item>
+                  <item>9. Whether or no Chriſt or his Apoſtles did ſet up in their Religion, they muſt abſtain from meats at ſuch and ſuch times, and wear ſuch and ſuch clothes in their Worſhip, and they might obſerve ſome of his days, and the Apoſtles, and other of the Saints days, and the Virgin <hi>Mary</hi>'s? Sati<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fie me in a Scripture-way of theſe things, and I will be of your Re<g ref="char:EOLhyphen"/>ligion; for we are not to preſume above what is written, ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, 1 <hi>Cor.</hi> 4. but he commended them who ſearched the Scriptures, and ſaid they were noble, who ſearched to ſee whether it were ſo or no, as they ſpake; and this was the <hi>Bereans,</hi> the Heathens, and ſhall Chriſtians be worſe and more ignoble then the Heathens, not to ſearch the Scrip<g ref="char:EOLhyphen"/>tures to ſee whether the things be ſo or no that they preach, or to ſee whether they do not preſume above what is written, 1 <hi>Cor.</hi> 4.6.?</item>
+                  <item>10. And whether it be not ſaid in the Bible and Common-prayer, <hi>Six days ſhalt thou labour and do all that thou haſt to do?</hi> And whether or no you that ſet up holy days which Chriſt and his Apoſtles did not, do not go contrary to the expreſs commands of God, and confound your ſelves in what you teach?</item>
+                  <item>11. And whether or no to curſe out any that doth not give you main<g ref="char:EOLhyphen"/>tenance, and doth not hear you, and doth not pull off their hats in ſpiri<g ref="char:EOLhyphen"/>tual Courts, is flat contrary to Chriſt's and the Apoſtles doctrine, which ſaith, <hi>Bleſs, and curſe not;</hi> for Chriſt hath redeemed us out of the curſe, and it is ignorance, weakneſs or error, to excommunicate ſuch as are not of your Church, that will not hear you, nor give you maintenance.</item>
+                  <item>12. And when any was excommunicated, was it not ſuch as had done ſome bad thing among them, which cauſed them to excommunicate them, which Members they put out of their Church or Aſſemblies.</item>
+                  <item>13. And did not you all leave and run away from us firſt, about twen<g ref="char:EOLhyphen"/>ty years ago? and might not we have turned <hi>Jews</hi> or Heathens ere this time for you, that many now of young people doth not know what your Religion is; for according to the Apoſtle, they are to try all things, and hold fa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t that which is good, and lay hands on no man ſuddenly.</item>
+                  <pb n="7" facs="tcp:109516:4"/>
+                  <item> 14. And do you not read daily in the Bible and Common-prayer<g ref="char:EOLhyphen"/>book, <hi>Curſed is he that keepeth the Widows, Fatherleſs and ſtrangers right?</hi> and was not tythes the widows, fatherleſs and ſtrangers right, as well as the Prieſts, for them all to eat together, and to praiſe the Lord?</item>
+                  <item>
+                     <p>15. And doth not they that keep away the widows, fatherleſs and ſtrangers right, bring, and read the curſe on their own heads, and let wi<g ref="char:EOLhyphen"/>dows, fatherleſs and ſtrangers go begging up and down, which God took care for when he gave them part of his tenths, which ſome are careleſs of, which the tenths of his tenths were a heave offering, which Chriſt the offering ends that, and all other offerings, and ends the tenths be<g ref="char:EOLhyphen"/>fore the Law, and in the Law, and redeemed man out of the ninths, up to God, out of the earth, and reign upon it.</p>
+                     <p>And ſo now did not the <hi>Independents</hi> and <hi>Presbyterians</hi> do the ſame? and ſo curſed is he that keepeth away the ſtrangers, widows and fatherleſſe right, which was the tythe; ſo they keeping the tythe from them, cau<g ref="char:EOLhyphen"/>ſed many beggars, fatherleſſe, ſtrangers and widows, and then made a Law to whip and puniſh Vagrants and ſturdy beggers: Did, and do not theſe and thoſe read the curſe on their own heads, that did, and do ſo now; for when there was ſo many <hi>Jews</hi> converted to Chriſtians by <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> then there was a murmuring among the Widows, as being neglect<g ref="char:EOLhyphen"/>ed; for they having had their maintenance formerly with <hi>Levi,</hi> which be<g ref="char:EOLhyphen"/>ing converted, they could not go back again for: Therefore ſaith the Apoſtle, <hi>Chuſe you out ſeven men to diſtribute unto them, and ſee nothing be lacking; for it was not meet for the Apoſtles to ſerve Tables, but to preach the Word;</hi> and this was the order among the Chriſtians, (was it not?) and whether they ever altered it to this day?</p>
+                  </item>
+                  <item>16. And whether or no Chriſt ever altered his Commiſſion which he had given to his Miniſters, <hi>Freely you have received, freely give.</hi>
+                  </item>
+                  <item>17. And if ſo, in what Record may we find it? whether ever any the Apoſtles, <hi>Timothy</hi> or <hi>Titus,</hi> made any Miniſters by oaths? if ſo, where is it written?</item>
+               </list>
+               <pb n="8" facs="tcp:109516:5"/>
+               <p> THe Apoſtle who was a true Miniſter of Chriſt Jeſus, his work was to pre<g ref="char:EOLhyphen"/>ſent every man perfect in Chriſt Jeſus: <hi>Whom we preach, warning every man, and teaching every man in all Wiſdom, that we may pre<g ref="char:EOLhyphen"/>ſent every man perfect in Chriſt Jeſus,</hi> Col. 1.28 Now you that call your ſelves, and go under the Name of the Min<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters of Chriſt, are preſenting, and warning men to ſuch a Court, and ſuch a Court, and tell them, they ſhall not be perfect whilſt upon earth, for they muſt earry a body of death while they be on this ſide the grave; and thus inſtead of preſenting them perfect in Chriſt Jeſus, and warning of them unto him, you are preſenting of them, and warning of them to your Courts; contrary to the Apoſtle, ſhewing the ſpirit of error; and will not all people ſee into this, think you?</p>
+               <p>And now you that ſay you are be gifted men, and others are to give you ſo much a year for your gift of God, will you not in the end call all ſuch as had given you money for your gift, young <hi>Simon Magus's,</hi> and tell them their hearts are not right in the ſight of God, but that they are in the gall of bitterneſs, and bond of iniquity, and tell them that the gift of God is not to be bought nor ſold for money? And hath not they that have ſaid they have bought the gift of God, and ſell it again for money, both buyer and ſeller been worſe than old <hi>Simon Ma<g ref="char:EOLhyphen"/>gus?</hi> And hath not this practice proved that they have not had the gift of God, which cannot be bought nor ſold for money.</p>
+            </div>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:109516:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
